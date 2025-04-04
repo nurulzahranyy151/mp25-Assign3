@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FF808080</color>
+    <color name="gray_light">#F1F1F1</color>
+    <color name="primary_color">#0961F5</color>
+    <color name="secondary_color">#E8F1FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_description">Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit.
+                Etiam convallis tellus nibh,
+                sit amet dictum quam cursus ac.</string>
+    <string name="app_logo">App Logo</string>
+    <string name="app_name">mp25-Assign3</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="email_hint">Email</string>
+    <string name="login">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="register">Register</string>
+    <string name="register_now">Register Now</string>
+    <string name="welcome_message">Selamat Datang di Aplikasi MyTenses!</string>
+    <style name="Base.Theme.Mp25Assign3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Mp25Assign3" parent="Base.Theme.Mp25Assign3"/>
+</resources>

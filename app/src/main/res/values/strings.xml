@@ -1,0 +1,15 @@
+<resources>
+        <string name="app_name">mp25-Assign3</string>
+        <string name="app_logo">App Logo</string>
+        <string name="welcome_message">Selamat Datang di Aplikasi MyTenses!</string>
+        <string name="app_description">Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit.
+                Etiam convallis tellus nibh,
+                sit amet dictum quam cursus ac.</string>
+        <string name="login">Login</string>
+        <string name="register">Register</string>
+        <string name="email_hint">Email</string>
+        <string name="password_hint">Password</string>
+        <string name="dont_have_account">Don\'t have an account?</string>
+        <string name="register_now">Register Now</string>
+</resources>
